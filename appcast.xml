@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
         <title>Ai-Desktop</title>
-        <link>https://raw.githubusercontent.com/Lechapelier/Ai-desktop-update/main/appcast.xml</link>
+        <link>https://lechapelier.github.io/Ai-desktop-update/appcast.xml</link>
         <item>
-            <title>Version 0.00.20</title>
-            <pubDate>Sat, 16 May 2026 10:44:27 +0200</pubDate>
-            <sparkle:version>00020</sparkle:version>
-            <sparkle:shortVersionString>0.00.20</sparkle:shortVersionString>
+            <title>Version 0.00.21</title>
+            <pubDate>Sat, 16 May 2026 10:49:53 +0200</pubDate>
+            <sparkle:version>00021</sparkle:version>
+            <sparkle:shortVersionString>0.00.21</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://raw.githubusercontent.com/Lechapelier/Ai-desktop-update/main/Ai-Desktop-0.00.20.zip"
-                sparkle:edSignature="71ANITQMqsrCHc9oCYoI4jAAA3pwMY9kqP09+FxkkvxqQeYXdQrZ+42r8Bmxit0SMyKQJdsatK89zTtic9zZBQ=="
-                length="1108961"
+                url="https://lechapelier.github.io/Ai-desktop-update/Ai-Desktop-0.00.21.zip"
+                sparkle:edSignature="8c5JBva+8PwQs9RhZEPIiT/x/xuD9zqIx6o6LbgbMGAA3pcdz8EmeI5OdEchlstycrb87thKd8wCrqV0HVerAQ=="
+                length="1108960"
                 type="application/octet-stream"/>
         </item>
     </channel>
