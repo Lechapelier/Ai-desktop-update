@@ -4,15 +4,15 @@
         <title>Ai-Desktop</title>
         <link>https://raw.githubusercontent.com/Lechapelier/Ai-desktop-update/main/appcast.xml</link>
         <item>
-            <title>Version 0.00.18</title>
-            <pubDate>Sat, 16 May 2026 10:42:56 +0200</pubDate>
-            <sparkle:version>00018</sparkle:version>
-            <sparkle:shortVersionString>0.00.18</sparkle:shortVersionString>
+            <title>Version 0.00.19</title>
+            <pubDate>Sat, 16 May 2026 10:43:19 +0200</pubDate>
+            <sparkle:version>00019</sparkle:version>
+            <sparkle:shortVersionString>0.00.19</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://raw.githubusercontent.com/Lechapelier/Ai-desktop-update/main/Ai-Desktop-0.00.18.zip"
-                sparkle:edSignature="i5Cu8xLdNb3STmlhkdKGWp3Cluut9fMP6seq+iCwtMsDriskfp7Jm6w4i7nzPWdebL8zRMtmCzgFDf5oehy1Ag=="
-                length="1108959"
+                url="https://raw.githubusercontent.com/Lechapelier/Ai-desktop-update/main/Ai-Desktop-0.00.19.zip"
+                sparkle:edSignature="wIcW6ug4GZXlkA+0928LUwhlR6ZtCCglZ/Ll7B+z5/5yimdPqMZGzCeqAC/OjIBwnrX6rZdR95q2CQ/EZ+e/Dg=="
+                length="1108972"
                 type="application/octet-stream"/>
         </item>
     </channel>
