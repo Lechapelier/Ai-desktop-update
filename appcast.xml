@@ -5,13 +5,13 @@
         <link>https://lechapelier.github.io/Ai-desktop-update/appcast.xml</link>
         <item>
             <title>Version 0.01.35</title>
-            <pubDate>Tue, 09 Jun 2026 11:51:26 +0200</pubDate>
+            <pubDate>Tue, 09 Jun 2026 12:13:40 +0200</pubDate>
             <sparkle:version>00135</sparkle:version>
             <sparkle:shortVersionString>0.01.35</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
             <enclosure
                 url="https://lechapelier.github.io/Ai-desktop-update/Ai-Desktop-0.01.35.zip"
-                sparkle:edSignature="tYxkRS3CwKAi3SHFa7A2OAPrOWY25/Xfds5wHPf2bb5RMY+cqExHCLmTQGZrTWqXE+f6iwwCxt72XL0ThfN4Dw=="
+                sparkle:edSignature="keOz1gz3rXFKybk2v0NaDNbvPxeUD8ZCZhpXCv58ur1FfCgpnpQZ1Q3/PCyPwQtzEIm4vuI3sKkp2QE3t7+TCQ=="
                 length="43118803"
                 type="application/octet-stream"/>
         </item>
